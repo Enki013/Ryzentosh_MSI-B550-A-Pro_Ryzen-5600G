@@ -4,6 +4,3 @@
 [submodule "MountEFI"]
 	path = MountEFI
 	url = https://github.com/corpnewt/MountEFI
-[submodule "OCAuxiliaryTools"]
-	path = OCAuxiliaryTools
-	url = https://github.com/ic005k/OCAuxiliaryTools
