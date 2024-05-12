@@ -11,7 +11,7 @@
 - ✅ iServices
 - ✅ USB
 - ✅ Audio
-
+- ✅ Virtual machine(virtual box 6.1.26)
 ![About](About.png)
 
 
