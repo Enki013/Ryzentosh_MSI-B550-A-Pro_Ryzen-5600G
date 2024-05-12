@@ -32,7 +32,7 @@
 ## Firmware
 | Driver       |         Version |
 | :------------| --------------: |
-| [OpenRuntime](https://github.com/acidanthera/OpenCorePkg/releases)  |           0.9.9 |
+| [OpenRuntime](https://github.com/acidanthera/OpenCorePkg/releases)  |           1.0.0 |
 
 
 ## Kexts
