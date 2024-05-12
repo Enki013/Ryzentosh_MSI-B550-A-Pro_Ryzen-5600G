@@ -2,7 +2,7 @@
 [OpenCore](https://dortania.github.io/OpenCore-Install-Guide) bootloader configuration for Ryzen 5 5600G on a MSI B550 A-Pro.
 
 ![macOS](https://img.shields.io/static/v1?label=macOS&message=v14.4%20Sonoma&color=red&style=flat-square&logo=macOS)
-![OpenCore](https://img.shields.io/static/v1?label=OpenCore&message=v0.9.9&color=red&style=flat-square&logo=apple)
+![OpenCore](https://img.shields.io/static/v1?label=OpenCore&message=v1.0.0&color=red&style=flat-square&logo=apple)
 
 
 ## Status
